@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0356ac61-868e-48a1-bc37-70890e264db0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/matplotlib.dataframe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matplotlib.series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_seaborn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/_matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +32,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/matplotlib.dataframe.py">
+        <entry file="file://$PROJECT_DIR$/_seaborn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -91,6 +90,8 @@
         <option value="$PROJECT_DIR$/_matplotlib.py" />
         <option value="$PROJECT_DIR$/matplotlib.series.py" />
         <option value="$PROJECT_DIR$/matplotlib.dataframe.py" />
+        <option value="$PROJECT_DIR$/seaborn.py" />
+        <option value="$PROJECT_DIR$/_seaborn.py" />
       </list>
     </option>
   </component>
@@ -144,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matplotlib.dataframe">
+  <component name="RunManager" selected="Python.seaborn">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="pyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,20 +256,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas.binning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="seaborn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas.binning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_seaborn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.seaborn" />
         <item itemvalue="Python.matplotlib.dataframe" />
         <item itemvalue="Python.matplotlib.series" />
         <item itemvalue="Python.matplotlib" />
         <item itemvalue="Python.pandas.aggregation" />
-        <item itemvalue="Python.pandas.binning" />
       </list>
     </recent_temporary>
   </component>
@@ -301,12 +299,12 @@
       <workItem from="1550559900006" duration="2770000" />
       <workItem from="1550563382191" duration="244000" />
       <workItem from="1550563630792" duration="31795000" />
-      <workItem from="1551151002577" duration="56000" />
+      <workItem from="1551151002577" duration="4160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41344000" />
+    <option name="totallyTimeSpent" value="45448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="6" />
@@ -327,12 +325,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32970297" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4960396" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.48910892" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.33386582" />
-      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="4" side_tool="true" weight="0.32960597" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49926144" visible="true" weight="0.33386582" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="4" sideWeight="0.50073856" side_tool="true" weight="0.33386582" />
       <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
     </layout>
   </component>
@@ -567,16 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_matplotlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/matplotlib.series.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -587,10 +575,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_matplotlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/matplotlib.dataframe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state>
+          <caret selection-end-line="4" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/seaborn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_seaborn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
