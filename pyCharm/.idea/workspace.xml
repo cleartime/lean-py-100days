@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0356ac61-868e-48a1-bc37-70890e264db0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/getgp/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getgp/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/getgp/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/getgp/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="325">
+              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
                 <element signature="e#7#25#0" expanded="true" />
               </folding>
@@ -313,12 +313,12 @@
       <workItem from="1550559900006" duration="2770000" />
       <workItem from="1550563382191" duration="244000" />
       <workItem from="1550563630792" duration="31795000" />
-      <workItem from="1551151002577" duration="6516000" />
+      <workItem from="1551151002577" duration="10479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47804000" />
+    <option name="totallyTimeSpent" value="51767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="6" />
@@ -339,11 +339,11 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32970297" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.48910892" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.48910892" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49926144" weight="0.33386582" />
+      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.49926144" visible="true" weight="0.3290735" />
       <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="4" sideWeight="0.50073856" side_tool="true" weight="0.33386582" />
       <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
     </layout>
@@ -630,8 +630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getgp/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="325">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding>
             <element signature="e#7#25#0" expanded="true" />
           </folding>

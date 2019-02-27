@@ -21,6 +21,9 @@ amazon = pdr.get_data_yahoo('AMZN', start = start)
 
 # alibaba['Adj Close'].plot(legend=True)
 # amazon['Adj Close'].plot(legend=True)
-alibaba['high-low'] = alibaba['High'] - alibaba['Low']
-alibaba['high-low'].plot(legend=True)
+# alibaba['high-low'] = alibaba['High'] - alibaba['Low']
+# alibaba['high-low'].plot(legend=True)
+alibaba['daily-return'] = alibaba['Adj Close'].p ct_change()
+alibaba['daily-return'].plot(figsize = (10, 4), linestyle='--', marker='.')
+sns.distplot(alibaba['daily-return'].dropna(),bins=100,color='purple')
 plt.show()
